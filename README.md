@@ -2,8 +2,7 @@
 
 The object of the game is to collect the most matching pairs in the time available.
 
-I made this game to practice my javascript lessons last year. Feel free to use it, read the code, optimise, play, all you want whit this repo ! If you have any advice contact me !
-
+I made this app to practice my JavaScript classes in 2017, it is not up to date. Feel free to use it, read the code, optimize, whatever you want with this repo!
 
 # Setting Up the Game
 
@@ -24,9 +23,5 @@ Play !
 # Screen during the game
 
 ![during](docs/images/jeu-memory.png)
-
-# Author
-
-snutij
 
 [Licence](LICENSE)
